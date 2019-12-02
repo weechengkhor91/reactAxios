@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `1. npx create-react-app reactAxios`
+### `2. npm install axios`
+### `3. npm start`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
